@@ -1,7 +1,7 @@
 # randomQuoteGenerator
 A simple page with random quote generator button.
 
-[Live Demo](https://scusate.github.io)
+[Live Demo](https://scusate.github.io/randomQuoteGenerator)
 
 Preview
 
