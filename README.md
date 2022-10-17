@@ -7,6 +7,6 @@ Preview
 
 ![Random Quote Generator Preview 1](/randomQuoteGenerator1.gif)
 
-Mobil View
+Mobile View
 
 ![Random Quote Generator Preview 2](/randomQuoteGenerator2.gif)
